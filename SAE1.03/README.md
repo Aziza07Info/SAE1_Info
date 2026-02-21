@@ -1,7 +1,7 @@
 # SAE1.03 – Installation et administration d’un système
 
-**BUT Info – S1.03 – 2025-2026**  
-**Encadrant : Santana-Maia**
+BUT Info – S1.03 – 2025-2026  
+Encadrant : Santana-Maia
 
 ---
 
