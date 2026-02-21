@@ -1,7 +1,7 @@
 # SAE1.03 – Installation et administration d’un système
 
 **BUT Info – S1.03 – 2025-2026**  
-**Encadrant : Julien Baste**
+**Encadrant : Santana-Maia**
 
 ---
 
@@ -46,8 +46,8 @@ Cette SAE vise à comprendre et réaliser l'installation d'un système d'exploit
 
 ## Fichiers associés
 
-- `Commandes/ctp_commands.sh` : contient les commandes importantes exécutées lors du CTP.  
-- `SAE1.03_presentation.pdf` : diaporama de présentation de l’installation de la machine virtuelle.  
+- [ctp_commands.sh](Commandes/ctp_commands.sh) : contient les commandes importantes exécutées lors du CTP.
+- [SAE1.03_presentation.pdf](SAE1.03_presentation.pdf) : diaporama de présentation de l’installation de la machine virtuelle. 
 
 ---
 
